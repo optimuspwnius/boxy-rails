@@ -1,5 +1,3 @@
-module Boxy
-  module Rails
-    VERSION = '0.1.0'
-  end
+module BoxyRails
+    VERSION = '0.0.1'
 end
