@@ -1,8 +1,8 @@
-# Boxy::Rails
-Short description and motivation.
+# BoxyRails
+Generic box class for use cases such as packing, shipping, etc.
 
 ## Usage
-How to use my plugin.
+Coming soon.
 
 ## Installation
 Add this line to your application's Gemfile:
@@ -20,9 +20,3 @@ Or install it yourself as:
 ```bash
 $ gem install boxy-rails
 ```
-
-## Contributing
-Contribution directions go here.
-
-## License
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
