@@ -8,13 +8,13 @@ module BoxyRails
     module ClassMethods
       def acts_as_box(options = {})
         puts "Acting as a box."
-        include Yaffle::ActsAsYaffle::LocalInstanceMethods
+        include BoxyRails::ActsAsBox::LocalInstanceMethods
       end
     end
 
     module LocalInstanceMethods
       def squawk(string)
-        puts "Squacking"
+        puts "Squawking"
 
       end
     end
