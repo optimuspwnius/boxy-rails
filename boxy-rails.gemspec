@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = BoxyRails::VERSION
   s.authors     = ["pwnious"]
   s.homepage    = "https://github.com/pwnious/boxy-rails"
-  s.summary     = "A box handler.
+  s.summary     = "A box handler."
   s.description = "For assigning slots in a box. Useful for packing setups, games, etc."
   s.license     = "MIT"
 
